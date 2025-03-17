@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景圆角矩形 -->
+    <rect width="128" height="128" rx="24" fill="#282828"/>
+    
+    <!-- YouTube 播放按钮 -->
+    <path d="M45 38L45 90L85 64L45 38Z" fill="#FF0000"/>
+    
+    <!-- Embed 'E' 字母 -->
+    <path d="M75 38H105V48H85V58H100V68H85V80H105V90H75V38Z" fill="white"/>
+</svg> 
