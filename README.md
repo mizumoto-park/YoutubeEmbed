@@ -1,6 +1,7 @@
-# YouTube Embed Converter
+# 通过 Embed 链接跳过 YouTube 广告的 Chrome 扩展
 
-一个简单而实用的 Chrome 浏览器扩展，可以自动将 YouTube 观看链接转换为嵌入链接，并支持自动播放功能。
+跳过广告的原理: 当前`youtube.com/embed/`链接在播放时会自动跳过广告,
+所以可以将`youtube.com/watch?v=`链接转换为`youtube.com/embed/`链接实现跳过广告.
 
 ## 功能特点
 
